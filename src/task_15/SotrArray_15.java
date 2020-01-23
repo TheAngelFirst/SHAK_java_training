@@ -1,5 +1,8 @@
 package task_15;
-
+/*
+Написать программу сортировки по возрастанию заданного пользователем массива чисел.
+Использовать пузырьковый метод сортировки.
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
