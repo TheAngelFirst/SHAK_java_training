@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d132ae4-4495-40a8-98a3-9438f888f679" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task_13/StringСomparison_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_14/TypeConversion_14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringСomparison_13">
+  <component name="RunManager" selected="Application.TypeConversion_14">
     <configuration name="DeleteSpaces_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_12.DeleteSpaces_12" />
       <module name="SHAK_java_training" />
@@ -60,19 +61,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task_11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Matrix_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_10.Matrix_10" />
-      <module name="SHAK_java_training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TypeConversion_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_14.TypeConversion_14" />
+      <module name="SHAK_java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeConversion_14" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.StringСomparison_13" />
         <item itemvalue="Application.DeleteSpaces_12" />
         <item itemvalue="Application.InputString_11" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Matrix_10" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579782629657</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Выполнено 13 задание">
+      <created>1579783377711</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579783377711</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +238,7 @@
     <MESSAGE value="Выполнено 10 задание" />
     <MESSAGE value="Выполнено 11 задание" />
     <MESSAGE value="Выполнено 12 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 12 задание" />
+    <MESSAGE value="Выполнено 13 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 13 задание" />
   </component>
 </project>
