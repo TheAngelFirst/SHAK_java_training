@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d132ae4-4495-40a8-98a3-9438f888f679" name="Default Changelist" comment="">
+    <list default="true" id="0d132ae4-4495-40a8-98a3-9438f888f679" name="Default Changelist" comment="Выполнено 5 задание">
       <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_5/MultiplicationTable_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_6/ArithmeticOperations_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task_4/BinaryToDecimal_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_4/BinaryToDecimal_4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiplicationTable_5">
+  <component name="RunManager" selected="Application.ArithmeticOperations_6">
+    <configuration name="ArithmeticOperations_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_6.ArithmeticOperations_6" />
+      <module name="SHAK_java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinaryToDecimal_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_4.BinaryToDecimal_4" />
       <module name="SHAK_java_training" />
@@ -58,13 +70,6 @@
     </configuration>
     <configuration name="HelloWorld_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_3.HelloWorld_3" />
-      <module name="SHAK_java_training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SHAK_java_training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticOperations_6" />
         <item itemvalue="Application.MultiplicationTable_5" />
         <item itemvalue="Application.BinaryToDecimal_4" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.HelloWorld_3" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579769233158</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Выполнено 5 задание">
+      <created>1579771454613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579771454613</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнено 3 задание" />
     <MESSAGE value="Выполнено 4 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 4 задание" />
+    <MESSAGE value="Выполнено 5 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 5 задание" />
   </component>
 </project>
