@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d132ae4-4495-40a8-98a3-9438f888f679" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/task_11/InputString_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_11/InputString_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_12/DeleteSpaces_12.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +39,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InputString_11">
+  <component name="RunManager" selected="Application.DeleteSpaces_12">
     <configuration name="Arrays_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_9.Arrays_9" />
       <module name="SHAK_java_training" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteSpaces_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_12.DeleteSpaces_12" />
+      <module name="SHAK_java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,26 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Сycles_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_8.Сycles_8" />
-      <module name="SHAK_java_training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteSpaces_12" />
         <item itemvalue="Application.InputString_11" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Matrix_10" />
         <item itemvalue="Application.Arrays_9" />
-        <item itemvalue="Application.Сycles_8" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579781959799</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Выполнено 11 задание">
+      <created>1579782036642</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579782036642</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
