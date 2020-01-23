@@ -1,4 +1,7 @@
 package task_11;
+ /*
+ Необходимо произвести ввод строки с клавиатуры и записать в строковую переменную. Результат вывести на экран.
+  */
 
 import java.io.BufferedReader;
 import java.io.IOException;
