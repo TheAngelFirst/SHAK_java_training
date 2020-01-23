@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0d132ae4-4495-40a8-98a3-9438f888f679" name="Default Changelist" comment="Выполнено 5 задание">
       <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_9/Arrays_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Сycles_8">
+  <component name="RunManager" selected="Application.Arrays_9">
     <configuration name="ArithmeticOperations_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_6.ArithmeticOperations_6" />
       <module name="SHAK_java_training" />
@@ -54,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataOutputCondition_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_7.DataOutputCondition_7" />
+    <configuration name="Arrays_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_9.Arrays_9" />
       <module name="SHAK_java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_7.*" />
+          <option name="PATTERN" value="task_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_5.MultiplicationTable_5" />
+    <configuration name="DataOutputCondition_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_7.DataOutputCondition_7" />
       <module name="SHAK_java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_5.*" />
+          <option name="PATTERN" value="task_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays_9" />
         <item itemvalue="Application.Сycles_8" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.DataOutputCondition_7" />
         <item itemvalue="Application.ArithmeticOperations_6" />
-        <item itemvalue="Application.MultiplicationTable_5" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579774631489</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Выполнено 8 задание">
+      <created>1579777435796</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579777435796</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +191,7 @@
     <MESSAGE value="Выполнено 5 задание" />
     <MESSAGE value="Выполнено 6 задание" />
     <MESSAGE value="Выполнено 7 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 7 задание" />
+    <MESSAGE value="Выполнено 8 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 8 задание" />
   </component>
 </project>
