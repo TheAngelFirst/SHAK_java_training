@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d132ae4-4495-40a8-98a3-9438f888f679" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task_14/TypeConversion_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_15/SotrArray_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TypeConversion_14">
+  <component name="RunManager" selected="Application.SotrArray_15">
     <configuration name="DeleteSpaces_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_12.DeleteSpaces_12" />
       <module name="SHAK_java_training" />
@@ -55,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputString_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_11.InputString_11" />
+    <configuration name="SotrArray_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_15.SotrArray_15" />
       <module name="SHAK_java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_11.*" />
+          <option name="PATTERN" value="task_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SotrArray_15" />
         <item itemvalue="Application.TypeConversion_14" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.StringСomparison_13" />
         <item itemvalue="Application.DeleteSpaces_12" />
-        <item itemvalue="Application.InputString_11" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579783377711</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Выполнено 14 задание">
+      <created>1579785042178</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579785042178</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +245,7 @@
     <MESSAGE value="Выполнено 11 задание" />
     <MESSAGE value="Выполнено 12 задание" />
     <MESSAGE value="Выполнено 13 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 13 задание" />
+    <MESSAGE value="Выполнено 14 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 14 задание" />
   </component>
 </project>
