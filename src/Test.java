@@ -4,12 +4,12 @@ import java.io.InputStreamReader;
 
 public class Test {
     public static void main(String[] args) throws IOException {
-        int[] i = {10, 20, 30, 40,50};
-        for (int x:i) {
-            if (x == 30) break;
-            System.out.println(x);
+        double[] i = {11.0, 5.8, 11.1, 10.9};
+        double min  = Double.MAX_VALUE;
+        for (double x:i) {
+            min = Math.min(min, x);
         }
-
+        System.out.println(min);
 
 
 
