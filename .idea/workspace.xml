@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d132ae4-4495-40a8-98a3-9438f888f679" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task_17/WriteDataToFile_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_17/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_6/ArithmeticOperations_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_6/ArithmeticOperations_6.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WriteDataToFile_17">
+  <component name="RunManager" selected="Application.ArithmeticOperations_6">
+    <configuration name="ArithmeticOperations_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_6.ArithmeticOperations_6" />
+      <module name="SHAK_java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadFileData_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_16.ReadFileData_16" />
       <module name="SHAK_java_training" />
@@ -64,13 +76,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="SHAK_java_training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticOperations_6" />
         <item itemvalue="Application.WriteDataToFile_17" />
         <item itemvalue="Application.ReadFileData_16" />
         <item itemvalue="Application.SotrArray_15" />
         <item itemvalue="Application.TypeConversion_14" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579789468530</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Выполнено 17 задание">
+      <created>1579791712525</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1579791712525</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +261,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -270,6 +284,7 @@
     <MESSAGE value="Выполнено 14 задание" />
     <MESSAGE value="Выполнено 15 задание" />
     <MESSAGE value="Выполнено 16 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 16 задание" />
+    <MESSAGE value="Выполнено 17 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 17 задание" />
   </component>
 </project>
