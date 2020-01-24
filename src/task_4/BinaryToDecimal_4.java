@@ -19,7 +19,6 @@ public class BinaryToDecimal_4 {
         int decimal = 0;
         for (int i = 0; i < binary.length(); i++) {
             decimal *= 2;
-            System.out.println(decimal);
             if (binary.charAt(i) == '1') decimal++;
             else  if (binary.charAt(i) != '0') {
                 correct = false;
