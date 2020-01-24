@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d132ae4-4495-40a8-98a3-9438f888f679" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/final_task_1/FinalTask_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_task_2/FinalTask_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task_4/BinaryToDecimal_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_4/BinaryToDecimal_4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FinalTask_1">
+  <component name="RunManager" selected="Application.FinalTask_2">
     <configuration name="ArithmeticOperations_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_6.ArithmeticOperations_6" />
       <module name="SHAK_java_training" />
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFileData_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_16.ReadFileData_16" />
+    <configuration name="FinalTask_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final_task_2.FinalTask_2" />
       <module name="SHAK_java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_16.*" />
+          <option name="PATTERN" value="final_task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalTask_2" />
         <item itemvalue="Application.FinalTask_1" />
         <item itemvalue="Application.СheckRewrite_18" />
         <item itemvalue="Application.ArithmeticOperations_6" />
         <item itemvalue="Application.WriteDataToFile_17" />
-        <item itemvalue="Application.ReadFileData_16" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579848010182</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Финальное задание 1 выполнено">
+      <created>1579849026366</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1579849026366</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +308,7 @@
     <MESSAGE value="Выполнено 17 задание" />
     <MESSAGE value="Исправлено 6 задание" />
     <MESSAGE value="Выполнено 18 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено 18 задание" />
+    <MESSAGE value="Финальное задание 1 выполнено" />
+    <option name="LAST_COMMIT_MESSAGE" value="Финальное задание 1 выполнено" />
   </component>
 </project>
